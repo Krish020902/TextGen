@@ -1,15 +1,18 @@
-look
 take shard
-go north
+north
 cut vines
 take key
-go south
-go east
+south
+east
 take shovel
-go east
+north
+take crystal
+south
+east
 dig earth
 take tablet
-go west
-go northeast
-solve runes
-unlock gate
+west
+northeast
+step on tiles (or solve runes or cross tiles)
+north
+unlock gate (or open gate)
