@@ -17,6 +17,11 @@
 ###### 
 
 ###### 
+Why I Chose This Story
+
+I went with this story because I’ve always liked adventure themes that feel a bit like Indiana Jones — exploring ruins, finding hidden relics, solving puzzles, and uncovering mysteries. It’s exciting, but also easy for anyone to imagine while playing a text-based game. The idea of a cursed forest and a legendary gate gave me the freedom to add puzzles and magical relics without making it too complicated.
+
+Also, the image I used was made with Gemini, since I couldn’t find one that really fit the mood on Pinterest.
 
 ###### The game runs in the terminal.
 
@@ -56,7 +61,7 @@
 
 ###### 
 
-###### Walkthrough (Quick Win)
+Walkthrough (Quick Win)
 
 ###### 
 
@@ -96,7 +101,7 @@
 
 ###### 
 
-###### This sequence will complete the game and open the Gate of Eternity. 🎉
+This sequence will complete the game and open the Gate of Eternity. 🎉
 
 ###### 
 
@@ -144,7 +149,7 @@
 
 ###### 
 
-###### Goal
+Goal
 
 ###### 
 
