@@ -1,0 +1,15 @@
+look
+take shard
+go north
+cut vines
+take key
+go south
+go east
+take shovel
+go east
+dig earth
+take tablet
+go west
+go northeast
+solve runes
+unlock gate
