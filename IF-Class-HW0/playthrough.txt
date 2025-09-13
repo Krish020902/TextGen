@@ -5,14 +5,14 @@ take key
 south
 east
 take shovel
-north
-take crystal
-south
 east
+take crystal
+west
+south
 dig earth
 take tablet
-west
-northeast
-step on tiles (or solve runes or cross tiles)
 north
-unlock gate (or open gate)
+north
+step tiles
+north
+unlock gate
